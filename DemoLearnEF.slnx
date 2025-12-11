@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Demo2CodeFirst/Demo2CodeFirst.csproj" Id="76becc80-84b5-48a8-ba48-7c7185c3733d" />
+  <Project Path="DemoLearnEF/DemoLearnEF.csproj" />
+  <Project Path="TestDemo4/TestDemo4.csproj" />
+</Solution>
